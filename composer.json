@@ -1,6 +1,6 @@
 {
   "name": "mpco/english-persian-number",
-  "description": "A simple package for convert persian number to english numbers and conversely",
+  "description": "A simple package for convert persian numbers to english numbers and conversely",
   "keywords": [
     "persian",
     "to",
@@ -29,5 +29,7 @@
     "psr-4": {
       "MPCO\\EnglishPersianNumber\\": "src/"
     }
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
