@@ -1,0 +1,33 @@
+{
+  "name": "mpco/english-persian-number",
+  "description": "A simple package for convert persian number to english numbers and conversely",
+  "keywords": [
+    "persian",
+    "to",
+    "english",
+    "number",
+    "numbers",
+    "toPersian",
+    "toEnglish",
+    "to persian",
+    "to english",
+    "تبدیل",
+    "تبدیل عدد",
+    "عدد",
+    "فارسی",
+    "انگلیسی"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Saeed Sajadi",
+      "email": "saeed.sajadi@gmail.com",
+      "homepage": "http://www.mehrpouya.co"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "MPCO\\EnglishPersianNumber\\": "src/"
+    }
+  }
+}
